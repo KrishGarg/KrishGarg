@@ -14,6 +14,11 @@
 
 ---
 
+### My Spotify Status:
+[<img src="https://readme-spotify-status-ten.vercel.app/api/run-spotify-status" alt="Spotify Status" width="400" />](https://open.spotify.com/user/2s0gb214xlmojv1cb8hb9ihze)
+
+
+---
 ## My Github Activity:
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#46](https://github.com/jeremyephron/simplegmail/issues/46) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
