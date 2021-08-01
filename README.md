@@ -17,8 +17,6 @@
 ## My Github Activity:
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ---
 ## My Github Stats:
 <img align="left" alt="KrishGarg's Github Stats" src="https://github-readme-stats-plum-chi.vercel.app/api?username=KrishGarg&show_icons=true&hide_border=true&theme=tokyonight" />
