@@ -21,11 +21,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/jeremyephron/simplegmail/issues/48) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
-2. ❗️ Opened issue [#47](https://github.com/jeremyephron/simplegmail/issues/47) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
-3. ❗️ Closed issue [#46](https://github.com/jeremyephron/simplegmail/issues/46) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
-4. 🗣 Commented on [#46](https://github.com/jeremyephron/simplegmail/issues/46) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
-5. ❗️ Opened issue [#46](https://github.com/jeremyephron/simplegmail/issues/46) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
+1. 💪 Opened PR [#6](https://github.com/CodeWithHarry/TextUtils-React/pull/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
+2. 🗣 Commented on [#48](https://github.com/jeremyephron/simplegmail/issues/48) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
+3. ❗️ Opened issue [#47](https://github.com/jeremyephron/simplegmail/issues/47) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
+4. ❗️ Closed issue [#46](https://github.com/jeremyephron/simplegmail/issues/46) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
+5. 🗣 Commented on [#46](https://github.com/jeremyephron/simplegmail/issues/46) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
 <!--END_SECTION:activity-->
 
 ---
