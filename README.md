@@ -21,11 +21,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/CodeWithHarry/TextUtils-React/issues/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
-2. 💪 Opened PR [#6](https://github.com/CodeWithHarry/TextUtils-React/pull/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
-3. 🗣 Commented on [#48](https://github.com/jeremyephron/simplegmail/issues/48) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
-4. ❗️ Opened issue [#47](https://github.com/jeremyephron/simplegmail/issues/47) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
-5. ❗️ Closed issue [#46](https://github.com/jeremyephron/simplegmail/issues/46) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
+1. 💪 Opened PR [#3](https://github.com/NamVr/DiscordBot-Template/pull/3) in [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template)
+2. 🗣 Commented on [#6](https://github.com/CodeWithHarry/TextUtils-React/issues/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
+3. 💪 Opened PR [#6](https://github.com/CodeWithHarry/TextUtils-React/pull/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
+4. 🗣 Commented on [#48](https://github.com/jeremyephron/simplegmail/issues/48) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
+5. ❗️ Opened issue [#47](https://github.com/jeremyephron/simplegmail/issues/47) in [jeremyephron/simplegmail](https://github.com/jeremyephron/simplegmail)
 <!--END_SECTION:activity-->
 
 ---
