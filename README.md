@@ -21,11 +21,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Krish-1234/gh-cli-test/pull/1) in [Krish-1234/gh-cli-test](https://github.com/Krish-1234/gh-cli-test)
-2. 🗣 Commented on [#4](https://github.com/NamVr/DiscordBot-Template/issues/4) in [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template)
-3. 💪 Opened PR [#4](https://github.com/NamVr/DiscordBot-Template/pull/4) in [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template)
-4. 💪 Opened PR [#3](https://github.com/NamVr/DiscordBot-Template/pull/3) in [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template)
-5. 🗣 Commented on [#6](https://github.com/CodeWithHarry/TextUtils-React/issues/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
+1. 🎉 Merged PR [#2](https://github.com/KrishGarg/gh-cli-testing/pull/2) in [KrishGarg/gh-cli-testing](https://github.com/KrishGarg/gh-cli-testing)
+2. 🎉 Merged PR [#1](https://github.com/KrishGarg/gh-cli-testing/pull/1) in [KrishGarg/gh-cli-testing](https://github.com/KrishGarg/gh-cli-testing)
+3. 💪 Opened PR [#1](https://github.com/Krish-1234/gh-cli-test/pull/1) in [Krish-1234/gh-cli-test](https://github.com/Krish-1234/gh-cli-test)
+4. 🗣 Commented on [#4](https://github.com/NamVr/DiscordBot-Template/issues/4) in [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template)
+5. 💪 Opened PR [#4](https://github.com/NamVr/DiscordBot-Template/pull/4) in [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template)
 <!--END_SECTION:activity-->
 
 ---
