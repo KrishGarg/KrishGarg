@@ -1,6 +1,7 @@
 # Hi there, I'm Krish Garg  👋
 
 ## I am a learning programmer and a student in class 10.
+- 👨‍💻 Currently working on my [site](https://www.krishgarg.ga) with a well explained about me, contact me form, and technology related blogs soon.
 - 😁 I like to create open source projects so that I can help others in the same field.
 - 🤖 I was working on a multi-purpose discord bot but after the closing of discord.py, I got discouraged and stopped the project.
 - 🥅 My goal: To become a full-stack developer.
