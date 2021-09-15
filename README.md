@@ -4,7 +4,7 @@
 - 😁 I like to create open source projects so that I can help others in the same field.
 - 🤖 I was working on a multi-purpose discord bot but after the closing of discord.py, I got discouraged and stopped the project.
 - 🥅 My goal: To become a full-stack developer.
-- 👨‍🏭 Fun Fact: I used to play violin before someone at a bat.
+- 👨‍🏭 Fun Fact: I used to play violin before someone ate a bat.
 ---
 ### My Socials:
 [<img align="left" alt="Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
