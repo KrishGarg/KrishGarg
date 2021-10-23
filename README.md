@@ -22,8 +22,8 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33174](https://github.com/gatsbyjs/gatsby/issues/33174) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 🗣 Commented on [#3](https://github.com/CodeWithHarry/iNotebook-React/issues/3) in [CodeWithHarry/iNotebook-React](https://github.com/CodeWithHarry/iNotebook-React)
+1. ❗️ Opened issue [#135683](https://github.com/microsoft/vscode/issues/135683) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#33174](https://github.com/gatsbyjs/gatsby/issues/33174) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 3. 🎉 Merged PR [#2](https://github.com/KrishGarg/gh-cli-testing/pull/2) in [KrishGarg/gh-cli-testing](https://github.com/KrishGarg/gh-cli-testing)
 4. 🎉 Merged PR [#1](https://github.com/KrishGarg/gh-cli-testing/pull/1) in [KrishGarg/gh-cli-testing](https://github.com/KrishGarg/gh-cli-testing)
 5. 💪 Opened PR [#1](https://github.com/Krish-1234/gh-cli-test/pull/1) in [Krish-1234/gh-cli-test](https://github.com/Krish-1234/gh-cli-test)
