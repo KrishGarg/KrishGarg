@@ -22,9 +22,9 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#135683](https://github.com/microsoft/vscode/issues/135683) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#33174](https://github.com/gatsbyjs/gatsby/issues/33174) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-3. 🎉 Merged PR [#2](https://github.com/KrishGarg/gh-cli-testing/pull/2) in [KrishGarg/gh-cli-testing](https://github.com/KrishGarg/gh-cli-testing)
+1. 💪 Opened PR [#300](https://github.com/vitejs/awesome-vite/pull/300) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+2. ❗️ Opened issue [#135683](https://github.com/microsoft/vscode/issues/135683) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#33174](https://github.com/gatsbyjs/gatsby/issues/33174) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 4. 🎉 Merged PR [#1](https://github.com/KrishGarg/gh-cli-testing/pull/1) in [KrishGarg/gh-cli-testing](https://github.com/KrishGarg/gh-cli-testing)
 5. 💪 Opened PR [#1](https://github.com/Krish-1234/gh-cli-test/pull/1) in [Krish-1234/gh-cli-test](https://github.com/Krish-1234/gh-cli-test)
 <!--END_SECTION:activity-->
