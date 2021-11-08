@@ -22,11 +22,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46521](https://github.com/microsoft/TypeScript/issues/46521) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. 💪 Opened PR [#300](https://github.com/vitejs/awesome-vite/pull/300) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-3. ❗️ Opened issue [#135683](https://github.com/microsoft/vscode/issues/135683) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#33174](https://github.com/gatsbyjs/gatsby/issues/33174) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-5. 💪 Opened PR [#1](https://github.com/Krish-1234/gh-cli-test/pull/1) in [Krish-1234/gh-cli-test](https://github.com/Krish-1234/gh-cli-test)
+1. ❗️ Closed issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+2. 🗣 Commented on [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+3. ❗️ Opened issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+4. ❗️ Opened issue [#46521](https://github.com/microsoft/TypeScript/issues/46521) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+5. 💪 Opened PR [#300](https://github.com/vitejs/awesome-vite/pull/300) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
 <!--END_SECTION:activity-->
 
 ---
