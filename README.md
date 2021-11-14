@@ -22,11 +22,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
-2. 🗣 Commented on [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
-3. ❗️ Opened issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
-4. ❗️ Opened issue [#46521](https://github.com/microsoft/TypeScript/issues/46521) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-5. 💪 Opened PR [#300](https://github.com/vitejs/awesome-vite/pull/300) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+1. 🗣 Commented on [#3725](https://github.com/brave/brave-browser/issues/3725) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. ❗️ Closed issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+3. 🗣 Commented on [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+4. ❗️ Opened issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+5. ❗️ Opened issue [#46521](https://github.com/microsoft/TypeScript/issues/46521) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 <!--END_SECTION:activity-->
 
 ---
