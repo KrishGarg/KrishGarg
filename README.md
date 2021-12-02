@@ -22,11 +22,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3725](https://github.com/brave/brave-browser/issues/3725) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. ❗️ Closed issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
-3. 🗣 Commented on [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
-4. ❗️ Opened issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
-5. ❗️ Opened issue [#46521](https://github.com/microsoft/TypeScript/issues/46521) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. ❗️ Opened issue [#271](https://github.com/asdf-vm/asdf-nodejs/issues/271) in [asdf-vm/asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs)
+2. 🗣 Commented on [#3725](https://github.com/brave/brave-browser/issues/3725) in [brave/brave-browser](https://github.com/brave/brave-browser)
+3. ❗️ Closed issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+4. 🗣 Commented on [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
+5. ❗️ Opened issue [#15089](https://github.com/expo/expo/issues/15089) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 ---
