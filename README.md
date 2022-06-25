@@ -25,7 +25,7 @@
 
 ---
 ## My Github Stats:
-<img align="left" alt="KrishGarg's Github Stats" src="https://github-readme-stats-plum-chi.vercel.app/api?username=KrishGarg&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="KrishGarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KrishGarg&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [website]: https://krishgarg.ga/
 [twitter]: https://twitter.com/KrishGa95586696
