@@ -16,8 +16,8 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1586](https://github.com/leerob/on-demand-isr/issues/1586) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-2. ❗️ Opened issue [#40](https://github.com/leerob/on-demand-isr/issues/40) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+1. 🎉 Merged PR [#1](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/1) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
+2. ❗️ Opened issue [#1586](https://github.com/leerob/on-demand-isr/issues/1586) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
 3. ❗️ Closed issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
 4. ❗️ Opened issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
 5. 🗣 Commented on [#4749](https://github.com/processing/p5.js/issues/4749) in [processing/p5.js](https://github.com/processing/p5.js)
