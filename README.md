@@ -16,11 +16,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/3) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
-2. 💪 Opened PR [#3](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/3) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
-3. 🎉 Merged PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
-4. ❌ Reopened PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
-5. ❌ Closed PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
+1. 🗣 Commented on [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/issues/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
+2. 🎉 Merged PR [#3](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/3) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
+3. 💪 Opened PR [#3](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/3) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
+4. 🎉 Merged PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
+5. ❌ Reopened PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
 <!--END_SECTION:activity-->
 
 ---
