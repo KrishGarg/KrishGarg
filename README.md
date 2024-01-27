@@ -1,11 +1,11 @@
 # Hi there, I'm Krish Garg  👋
 
-## I am a learning programmer and a student in class 11.
+## I am a learning programmer and a student in class 12.
 - 📖 Currently studying for the JEE exam to get a good college.
-- 😁 I like to create open source projects so that I can help others in the same field.
+- 😁 I like to create open-source projects so that I can help others in the same field.
 - 🤖 I was working on a multi-purpose discord bot but after the closing of discord.py, I got discouraged and stopped the project.
 - 🥅 My goal: To become a full-stack developer.
-- 👨‍🏭 Fun Fact: I used to play violin before someone ate a bat.
+- 👨‍🏭 Fun Fact: I used to play the violin before someone ate a bat.
 ---
 ### My Socials:
 [<img align="left" alt="Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -27,6 +27,6 @@
 ## My Github Stats:
 <img align="left" alt="KrishGarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KrishGarg&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[website]: https://krishgarg.ga/
+[website]: https://krishgarg.gq/
 [twitter]: https://twitter.com/KrishGa95586696
 [instagram]: https://www.instagram.com/krishgarg6306/
