@@ -16,9 +16,9 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/issues/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
-2. 🎉 Merged PR [#3](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/3) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
-3. 💪 Opened PR [#3](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/3) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
+1. 🗣 Commented on [#23](https://github.com/nikhilmwarrier/jee-2024-scraper/pull/23#issuecomment-2052427909) in [nikhilmwarrier/jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper)
+2. ❌ Closed PR [#23](https://github.com/nikhilmwarrier/jee-2024-scraper/pull/23) in [nikhilmwarrier/jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper)
+3. 💪 Opened PR [#23](https://github.com/nikhilmwarrier/jee-2024-scraper/pull/23) in [nikhilmwarrier/jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper)
 4. 🎉 Merged PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
 5. ❌ Reopened PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
 <!--END_SECTION:activity-->
