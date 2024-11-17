@@ -16,7 +16,7 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/nikhilmwarrier/jee-2024-scraper/pull/23#issuecomment-2052427909) in [nikhilmwarrier/jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper)
+1. 💪 Opened PR [#1](https://github.com/Vishesh-Ag-BITSG/Keylogger-Assignment/pull/1) in [Vishesh-Ag-BITSG/Keylogger-Assignment](https://github.com/Vishesh-Ag-BITSG/Keylogger-Assignment)
 2. ❌ Closed PR [#23](https://github.com/nikhilmwarrier/jee-2024-scraper/pull/23) in [nikhilmwarrier/jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper)
 3. 💪 Opened PR [#23](https://github.com/nikhilmwarrier/jee-2024-scraper/pull/23) in [nikhilmwarrier/jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper)
 4. 🎉 Merged PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
