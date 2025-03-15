@@ -8,8 +8,6 @@
 - 👨‍🏭 Fun Fact: I used to play the violin before someone ate a bat.
 ---
 ### My Socials:
-[<img align="left" alt="Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
@@ -29,4 +27,4 @@
 
 [website]: https://krishgarg.gq/
 [twitter]: https://twitter.com/KrishGa95586696
-[instagram]: https://www.instagram.com/krishgarg6306/
+[instagram]: https://www.instagram.com/the.krishhhhh/
