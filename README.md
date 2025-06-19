@@ -14,7 +14,7 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Darelife/aciax/pull/1) in [Darelife/aciax](https://github.com/Darelife/aciax)
+1. 💪 Opened PR [#4](https://github.com/Darelife/aciax/pull/4) in [Darelife/aciax](https://github.com/Darelife/aciax)
 2. 💪 Opened PR [#1](https://github.com/Darelife/aciax/pull/1) in [Darelife/aciax](https://github.com/Darelife/aciax)
 3. 💪 Opened PR [#1](https://github.com/Vishesh-Ag-BITSG/Keylogger-Assignment/pull/1) in [Vishesh-Ag-BITSG/Keylogger-Assignment](https://github.com/Vishesh-Ag-BITSG/Keylogger-Assignment)
 4. 🎉 Merged PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
