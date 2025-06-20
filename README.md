@@ -14,9 +14,9 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Darelife/aciax/pull/4#issuecomment-2989832684) in [Darelife/aciax](https://github.com/Darelife/aciax)
-2. 💪 Opened PR [#4](https://github.com/Darelife/aciax/pull/4) in [Darelife/aciax](https://github.com/Darelife/aciax)
-3. 💪 Opened PR [#1](https://github.com/Vishesh-Ag-BITSG/Keylogger-Assignment/pull/1) in [Vishesh-Ag-BITSG/Keylogger-Assignment](https://github.com/Vishesh-Ag-BITSG/Keylogger-Assignment)
+1. ❌ Closed PR [#6](https://github.com/CodeWithHarry/TextUtils-React/pull/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
+2. 🗣 Commented on [#4](https://github.com/Darelife/aciax/pull/4#issuecomment-2989832684) in [Darelife/aciax](https://github.com/Darelife/aciax)
+3. 💪 Opened PR [#4](https://github.com/Darelife/aciax/pull/4) in [Darelife/aciax](https://github.com/Darelife/aciax)
 4. 🎉 Merged PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
 5. ❌ Reopened PR [#2](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs/pull/2) in [KrishGarg/OAuth2-Discord-ExpressJs](https://github.com/KrishGarg/OAuth2-Discord-ExpressJs)
 <!--END_SECTION:activity-->
