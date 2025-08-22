@@ -1,6 +1,6 @@
 # Hi there, I'm Krish Garg  👋
 
-## I am a learning programmer and a fresher at BITS Goa (CS).
+## I am a learning programmer and a sophomore at BITS Goa (CS).
 - 📖 Finished JEE with 21** in advance, now will explore myself at college.
 - 😁 I like to create open-source projects so that I can help others in the same field.
 - 🤖 I was working on a multi-purpose discord bot but after the closing of discord.py, I got discouraged and stopped the project.
