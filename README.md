@@ -14,7 +14,7 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Darelife/aciax/pull/5) in [Darelife/aciax](https://github.com/Darelife/aciax)
+1. 🚀 Published release [0.1: Functional App](https://github.com/KrishGarg/campnet_autologin/releases/tag/0.1) in [KrishGarg/campnet_autologin](https://github.com/KrishGarg/campnet_autologin)
 2. ❌ Closed PR [#6](https://github.com/CodeWithHarry/TextUtils-React/pull/6) in [CodeWithHarry/TextUtils-React](https://github.com/CodeWithHarry/TextUtils-React)
 3. 🗣 Commented on [#4](https://github.com/Darelife/aciax/pull/4#issuecomment-2989832684) in [Darelife/aciax](https://github.com/Darelife/aciax)
 4. 💪 Opened PR [#4](https://github.com/Darelife/aciax/pull/4) in [Darelife/aciax](https://github.com/Darelife/aciax)
